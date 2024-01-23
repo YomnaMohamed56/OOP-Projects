@@ -1,0 +1,2 @@
+C# in a nutshell,yomna,15
+T-SQL fundamentals,laila,20

@@ -1,0 +1,15 @@
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.exe
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.deps.json
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.runtimeconfig.json
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.dll
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.pdb
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.csproj.AssemblyReference.cache
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.AssemblyInfoInputs.cache
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.AssemblyInfo.cs
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.csproj.CoreCompileInputs.cache
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.dll
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\refint\Contact Manager Application.dll
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.pdb
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.genruntimeconfig.cache
+D:\Study\OOP Projects\Contact Manager Application\Contact Manager Application\obj\Debug\net6.0\ref\Contact Manager Application.dll

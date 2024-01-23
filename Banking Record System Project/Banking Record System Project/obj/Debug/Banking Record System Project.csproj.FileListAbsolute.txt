@@ -1,0 +1,8 @@
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\bin\Debug\Banking Record System Project.exe.config
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\bin\Debug\Banking Record System Project.exe
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\bin\Debug\Banking Record System Project.pdb
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\obj\Debug\Banking Record System Project.csproj.AssemblyReference.cache
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\obj\Debug\Banking Record System Project.csproj.SuggestedBindingRedirects.cache
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\obj\Debug\Banking Record System Project.csproj.CoreCompileInputs.cache
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\obj\Debug\Banking Record System Project.exe
+D:\Study\OOP Projects\Banking Record System Project\Banking Record System Project\obj\Debug\Banking Record System Project.pdb

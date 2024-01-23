@@ -1,0 +1,15 @@
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\bin\Debug\net6.0\Bookshop Management System Project.exe
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\bin\Debug\net6.0\Bookshop Management System Project.deps.json
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\bin\Debug\net6.0\Bookshop Management System Project.runtimeconfig.json
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\bin\Debug\net6.0\Bookshop Management System Project.dll
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\bin\Debug\net6.0\Bookshop Management System Project.pdb
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.csproj.AssemblyReference.cache
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.AssemblyInfoInputs.cache
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.AssemblyInfo.cs
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.csproj.CoreCompileInputs.cache
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.dll
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\refint\Bookshop Management System Project.dll
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.pdb
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\Bookshop Management System Project.genruntimeconfig.cache
+D:\Study\OOP Projects\Bookshop Management System Project\Bookshop Management System Project\obj\Debug\net6.0\ref\Bookshop Management System Project.dll

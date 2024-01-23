@@ -1,0 +1,15 @@
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\bin\Debug\net6.0\Bus Reservation System Project.exe
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\bin\Debug\net6.0\Bus Reservation System Project.deps.json
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\bin\Debug\net6.0\Bus Reservation System Project.runtimeconfig.json
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\bin\Debug\net6.0\Bus Reservation System Project.dll
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\bin\Debug\net6.0\Bus Reservation System Project.pdb
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.csproj.AssemblyReference.cache
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.AssemblyInfoInputs.cache
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.AssemblyInfo.cs
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.csproj.CoreCompileInputs.cache
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.dll
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\refint\Bus Reservation System Project.dll
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.pdb
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\Bus Reservation System Project.genruntimeconfig.cache
+D:\Study\OOP Projects\Bus Reservation System Project\Bus Reservation System Project\obj\Debug\net6.0\ref\Bus Reservation System Project.dll

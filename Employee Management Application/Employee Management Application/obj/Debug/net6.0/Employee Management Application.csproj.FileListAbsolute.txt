@@ -1,0 +1,15 @@
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\bin\Debug\net6.0\Employee Management Application.exe
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\bin\Debug\net6.0\Employee Management Application.deps.json
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\bin\Debug\net6.0\Employee Management Application.runtimeconfig.json
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\bin\Debug\net6.0\Employee Management Application.dll
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\bin\Debug\net6.0\Employee Management Application.pdb
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.csproj.AssemblyReference.cache
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.AssemblyInfoInputs.cache
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.AssemblyInfo.cs
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.csproj.CoreCompileInputs.cache
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.dll
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\refint\Employee Management Application.dll
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.pdb
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\Employee Management Application.genruntimeconfig.cache
+D:\Study\OOP Projects\Employee Management Application\Employee Management Application\obj\Debug\net6.0\ref\Employee Management Application.dll
